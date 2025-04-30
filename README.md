@@ -1,4 +1,4 @@
-# desafio_latam
+# desafio-latam
 
 # 🧠 Exámenes Finales - Desafío Latam
 
