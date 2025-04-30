@@ -9,7 +9,7 @@ Se desarrolló un dashboard interactivo utilizando **Tableau Public**, enfocado 
 ## 🔗 Enlace al Dashboard
 
 📊 [Ver visualizaciones en Tableau Public](https://public.tableau.com/app/profile/rodrigo.arriaza/vizzes)
-
+🔖 **Nombre del Dashboard:** `PruebaADL_Arriaza`
 ---
 
 ## 🧠 Habilidades aplicadas
